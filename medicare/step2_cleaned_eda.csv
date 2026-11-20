@@ -1,0 +1,301 @@
+disease,fever,cough,fatigue,difficulty_breathing,age,gender,blood_pressure,cholesterol_level,outcome_variable,age_scaled,bp_scaled,chol_scaled,risk_level,disease_clean
+Influenza,Yes,No,Yes,Yes,19,female,0,1,Positive,-2.091159685,-2.419529174,-0.576776779,Low,Influenza
+Common Cold,No,Yes,Yes,No,25,female,1,1,Negative,-1.631964176,-0.723915355,-0.576776779,Low,Common Cold
+Eczema,No,Yes,Yes,No,25,female,1,1,Negative,-1.631964176,-0.723915355,-0.576776779,Medium,Eczema
+Asthma,Yes,Yes,No,Yes,25,male,1,1,Positive,-1.631964176,-0.723915355,-0.576776779,Medium,Asthma
+Eczema,Yes,No,No,No,25,female,1,1,Positive,-1.631964176,-0.723915355,-0.576776779,Medium,Eczema
+Influenza,Yes,Yes,Yes,Yes,25,female,1,1,Positive,-1.631964176,-0.723915355,-0.576776779,Low,Influenza
+Hyperthyroidism,No,Yes,No,No,28,female,1,1,Negative,-1.402366421,-0.723915355,-0.576776779,Medium,Hyperthyroidism
+Asthma,Yes,No,No,Yes,28,male,2,1,Positive,-1.402366421,0.971698463,-0.576776779,Medium,Asthma
+Allergic Rhinitis,No,Yes,Yes,No,29,female,1,0,Negative,-1.325833836,-0.723915355,-2.101739626,Low,Allergic Rhinitis
+Anxiety Disorders,No,Yes,No,No,29,female,1,2,Negative,-1.325833836,-0.723915355,0.948186068,Medium,Anxiety Disorders
+Common Cold,No,No,No,No,29,female,0,1,Negative,-1.325833836,-2.419529174,-0.576776779,Low,Common Cold
+Diabetes,No,No,No,No,29,male,0,1,Negative,-1.325833836,-2.419529174,-0.576776779,Medium,Diabetes
+Gastroenteritis,No,Yes,No,No,29,female,1,1,Negative,-1.325833836,-0.723915355,-0.576776779,Medium,Gastroenteritis
+Pancreatitis,Yes,No,No,No,29,female,2,1,Negative,-1.325833836,0.971698463,-0.576776779,High,Pancreatitis
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,female,2,2,Negative,-1.325833836,0.971698463,0.948186068,Medium,Rheumatoid Arthritis
+Depression,Yes,Yes,Yes,Yes,29,male,2,1,Positive,-1.325833836,0.971698463,-0.576776779,Medium,Depression
+Liver Cancer,Yes,Yes,Yes,Yes,29,female,1,1,Positive,-1.325833836,-0.723915355,-0.576776779,High,Liver Cancer
+Stroke,Yes,Yes,Yes,Yes,29,female,1,1,Positive,-1.325833836,-0.723915355,-0.576776779,High,Stroke
+Urinary Tract Infection,Yes,Yes,Yes,No,29,male,2,2,Positive,-1.325833836,0.971698463,0.948186068,Low,Urinary Tract Infection
+Dengue Fever,Yes,No,Yes,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Low,Dengue Fever
+Eczema,No,Yes,Yes,No,30,male,2,2,Negative,-1.249301251,0.971698463,0.948186068,Medium,Eczema
+Gastroenteritis,Yes,Yes,Yes,No,30,male,2,2,Negative,-1.249301251,0.971698463,0.948186068,Medium,Gastroenteritis
+Hepatitis,Yes,Yes,Yes,Yes,30,male,2,1,Negative,-1.249301251,0.971698463,-0.576776779,Medium,Hepatitis
+Kidney Cancer,No,No,Yes,No,30,male,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,High,Kidney Cancer
+Migraine,Yes,No,No,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Medium,Migraine
+Migraine,No,Yes,Yes,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Medium,Migraine
+Muscular Dystrophy,No,No,Yes,No,30,male,2,2,Negative,-1.249301251,0.971698463,0.948186068,Medium,Muscular Dystrophy
+Sinusitis,No,Yes,Yes,No,30,male,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Low,Sinusitis
+Ulcerative Colitis,Yes,Yes,No,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Medium,Ulcerative Colitis
+Ulcerative Colitis,No,Yes,Yes,No,30,female,1,1,Negative,-1.249301251,-0.723915355,-0.576776779,Medium,Ulcerative Colitis
+Asthma,Yes,Yes,No,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,Asthma
+Asthma,Yes,Yes,Yes,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,Asthma
+Bipolar Disorder,No,No,Yes,No,30,female,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,Bipolar Disorder
+Bronchitis,Yes,Yes,No,Yes,30,female,0,1,Positive,-1.249301251,-2.419529174,-0.576776779,Low,Bronchitis
+Bronchitis,Yes,Yes,Yes,Yes,30,male,2,2,Positive,-1.249301251,0.971698463,0.948186068,Low,Bronchitis
+Cerebral Palsy,No,No,Yes,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,Cerebral Palsy
+Colorectal Cancer,No,No,Yes,No,30,female,1,2,Positive,-1.249301251,-0.723915355,0.948186068,High,Colorectal Cancer
+Eczema,Yes,No,No,No,30,male,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,Eczema
+Hypertensive Heart Disease,No,No,Yes,No,30,female,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,Hypertensive Heart Disease
+Influenza,Yes,Yes,Yes,No,30,male,2,1,Positive,-1.249301251,0.971698463,-0.576776779,Low,Influenza
+Influenza,Yes,Yes,Yes,Yes,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Low,Influenza
+Multiple Sclerosis,No,No,Yes,No,30,female,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,Multiple Sclerosis
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,female,2,2,Positive,-1.249301251,0.971698463,0.948186068,Medium,Myocardial Infarction
+Urinary Tract Infection (UTI),Yes,No,No,No,30,female,1,1,Positive,-1.249301251,-0.723915355,-0.576776779,Medium,Urinary Tract Infection
+Asthma,No,No,No,Yes,31,male,1,0,Negative,-1.172768666,-0.723915355,-2.101739626,Medium,Asthma
+Osteoporosis,No,No,No,Yes,31,male,0,1,Negative,-1.172768666,-2.419529174,-0.576776779,Medium,Osteoporosis
+Common Cold,Yes,No,Yes,Yes,31,male,2,2,Positive,-1.172768666,0.971698463,0.948186068,Low,Common Cold
+Migraine,Yes,No,No,No,31,female,1,1,Positive,-1.172768666,-0.723915355,-0.576776779,Medium,Migraine
+Pneumonia,Yes,No,Yes,Yes,32,female,2,1,Positive,-1.096236081,0.971698463,-0.576776779,Low,Pneumonia
+Allergic Rhinitis,No,No,Yes,No,35,female,1,0,Negative,-0.866638326,-0.723915355,-2.101739626,Low,Allergic Rhinitis
+Asthma,No,Yes,Yes,Yes,35,female,1,2,Negative,-0.866638326,-0.723915355,0.948186068,Medium,Asthma
+Asthma,Yes,Yes,Yes,Yes,35,female,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,Asthma
+Asthma,No,Yes,Yes,Yes,35,female,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Medium,Asthma
+Atherosclerosis,No,No,Yes,No,35,male,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,Atherosclerosis
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,male,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,Chronic Obstructive Pulmonary
+Common Cold,Yes,Yes,Yes,No,35,male,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Low,Common Cold
+Eczema,No,Yes,No,No,35,male,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Medium,Eczema
+Epilepsy,No,No,Yes,No,35,male,2,2,Negative,-0.866638326,0.971698463,0.948186068,Medium,Epilepsy
+Hypertension,Yes,Yes,Yes,No,35,female,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Medium,Hypertension
+Hyperthyroidism,Yes,Yes,Yes,No,35,female,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,Hyperthyroidism
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,male,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Medium,Obsessive-Compulsive Disorde
+Pneumonia,Yes,Yes,Yes,Yes,35,female,1,1,Negative,-0.866638326,-0.723915355,-0.576776779,Low,Pneumonia
+Psoriasis,Yes,No,No,No,35,female,1,0,Negative,-0.866638326,-0.723915355,-2.101739626,Medium,Psoriasis
+Psoriasis,No,Yes,Yes,No,35,female,1,0,Negative,-0.866638326,-0.723915355,-2.101739626,Medium,Psoriasis
+Rubella,Yes,No,Yes,No,35,female,2,1,Negative,-0.866638326,0.971698463,-0.576776779,Low,Rubella
+Urinary Tract Infection (UTI),No,Yes,Yes,No,35,male,2,2,Negative,-0.866638326,0.971698463,0.948186068,Medium,Urinary Tract Infection
+Asthma,Yes,Yes,No,Yes,35,male,1,1,Positive,-0.866638326,-0.723915355,-0.576776779,Medium,Asthma
+Cirrhosis,No,No,Yes,No,35,female,1,2,Positive,-0.866638326,-0.723915355,0.948186068,High,Cirrhosis
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,female,2,2,Positive,-0.866638326,0.971698463,0.948186068,Low,Conjunctivitis (Pink Eye)
+Depression,No,No,Yes,No,35,female,1,2,Positive,-0.866638326,-0.723915355,0.948186068,Medium,Depression
+Gastroenteritis,Yes,No,Yes,Yes,35,male,0,2,Positive,-0.866638326,-2.419529174,0.948186068,Medium,Gastroenteritis
+Hyperthyroidism,Yes,Yes,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,Hyperthyroidism
+Kidney Cancer,No,No,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,High,Kidney Cancer
+Liver Cancer,No,No,Yes,No,35,female,2,2,Positive,-0.866638326,0.971698463,0.948186068,High,Liver Cancer
+Liver Disease,No,No,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,High,Liver Disease
+Malaria,Yes,No,No,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,Malaria
+Migraine,No,Yes,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,Migraine
+Migraine,Yes,No,No,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,Migraine
+Pancreatitis,No,No,Yes,No,35,male,1,2,Positive,-0.866638326,-0.723915355,0.948186068,High,Pancreatitis
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,male,1,0,Positive,-0.866638326,-0.723915355,-2.101739626,Medium,Rheumatoid Arthritis
+Rheumatoid Arthritis,No,No,Yes,No,35,female,1,0,Positive,-0.866638326,-0.723915355,-2.101739626,Medium,Rheumatoid Arthritis
+Spina Bifida,No,No,Yes,No,35,female,1,1,Positive,-0.866638326,-0.723915355,-0.576776779,High,Spina Bifida
+Ulcerative Colitis,No,No,Yes,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,Ulcerative Colitis
+Ulcerative Colitis,Yes,No,No,No,35,male,2,2,Positive,-0.866638326,0.971698463,0.948186068,Medium,Ulcerative Colitis
+Urinary Tract Infection,Yes,No,Yes,No,35,female,1,2,Positive,-0.866638326,-0.723915355,0.948186068,Low,Urinary Tract Infection
+Allergic Rhinitis,No,Yes,No,No,38,female,0,1,Negative,-0.637040571,-2.419529174,-0.576776779,Low,Allergic Rhinitis
+Depression,No,No,No,No,38,female,1,2,Negative,-0.637040571,-0.723915355,0.948186068,Medium,Depression
+Gastroenteritis,No,No,No,No,38,male,1,0,Negative,-0.637040571,-0.723915355,-2.101739626,Medium,Gastroenteritis
+Influenza,No,No,No,No,38,male,1,1,Negative,-0.637040571,-0.723915355,-0.576776779,Low,Influenza
+Kidney Disease,No,No,Yes,No,38,female,0,1,Negative,-0.637040571,-2.419529174,-0.576776779,High,Kidney Disease
+Liver Cancer,Yes,Yes,No,No,38,female,2,1,Negative,-0.637040571,0.971698463,-0.576776779,High,Liver Cancer
+Liver Disease,No,Yes,No,Yes,38,male,0,1,Negative,-0.637040571,-2.419529174,-0.576776779,High,Liver Disease
+Osteoporosis,No,Yes,No,No,38,female,1,2,Negative,-0.637040571,-0.723915355,0.948186068,Medium,Osteoporosis
+Stroke,Yes,Yes,No,No,38,female,2,1,Negative,-0.637040571,0.971698463,-0.576776779,High,Stroke
+Anxiety Disorders,Yes,No,Yes,Yes,38,male,2,2,Positive,-0.637040571,0.971698463,0.948186068,Medium,Anxiety Disorders
+Diabetes,Yes,No,Yes,Yes,38,male,2,0,Positive,-0.637040571,0.971698463,-2.101739626,Medium,Diabetes
+Migraine,Yes,Yes,No,No,38,male,2,2,Positive,-0.637040571,0.971698463,0.948186068,Medium,Migraine
+Osteoarthritis,Yes,Yes,Yes,No,38,male,2,2,Positive,-0.637040571,0.971698463,0.948186068,Medium,Osteoarthritis
+Pneumonia,Yes,Yes,Yes,Yes,38,male,1,1,Positive,-0.637040571,-0.723915355,-0.576776779,Low,Pneumonia
+Klinefelter Syndrome,No,No,Yes,No,39,female,1,1,Positive,-0.560507986,-0.723915355,-0.576776779,Medium,Klinefelter Syndrome
+Acne,No,No,Yes,No,40,male,1,1,Negative,-0.483975401,-0.723915355,-0.576776779,Low,Acne
+Brain Tumor,No,No,Yes,No,40,male,1,1,Negative,-0.483975401,-0.723915355,-0.576776779,High,Brain Tumor
+Bronchitis,No,Yes,No,Yes,40,female,1,1,Negative,-0.483975401,-0.723915355,-0.576776779,Low,Bronchitis
+Cystic Fibrosis,No,No,Yes,Yes,40,male,2,2,Negative,-0.483975401,0.971698463,0.948186068,Medium,Cystic Fibrosis
+Diabetes,Yes,No,No,No,40,female,2,2,Negative,-0.483975401,0.971698463,0.948186068,Medium,Diabetes
+Glaucoma,No,No,Yes,No,40,male,2,1,Negative,-0.483975401,0.971698463,-0.576776779,Medium,Glaucoma
+Osteoarthritis,No,No,Yes,No,40,male,2,1,Negative,-0.483975401,0.971698463,-0.576776779,Medium,Osteoarthritis
+Rabies,Yes,Yes,No,No,40,female,2,1,Negative,-0.483975401,0.971698463,-0.576776779,High,Rabies
+Asthma,Yes,No,Yes,No,40,male,0,1,Positive,-0.483975401,-2.419529174,-0.576776779,Medium,Asthma
+Asthma,Yes,Yes,No,Yes,40,female,1,1,Positive,-0.483975401,-0.723915355,-0.576776779,Medium,Asthma
+Asthma,No,No,Yes,Yes,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,Asthma
+Asthma,Yes,No,Yes,Yes,40,male,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Medium,Asthma
+Chickenpox,No,Yes,No,No,40,male,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Low,Chickenpox
+Coronary Artery Disease,No,No,Yes,No,40,female,2,2,Positive,-0.483975401,0.971698463,0.948186068,High,Coronary Artery Disease
+Eating Disorders (Anorexia,No,No,Yes,No,40,female,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,Eating Disorders
+Fibromyalgia,No,No,Yes,No,40,female,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,Fibromyalgia
+Gastroenteritis,Yes,Yes,Yes,No,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,Gastroenteritis
+Hemophilia,No,No,Yes,No,40,female,1,1,Positive,-0.483975401,-0.723915355,-0.576776779,High,Hemophilia
+Hyperthyroidism,No,No,Yes,No,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,Hyperthyroidism
+Hypoglycemia,No,No,Yes,No,40,female,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,Hypoglycemia
+Lymphoma,No,Yes,No,No,40,female,1,2,Positive,-0.483975401,-0.723915355,0.948186068,High,Lymphoma
+Pneumonia,Yes,Yes,Yes,Yes,40,female,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Low,Pneumonia
+Psoriasis,No,Yes,Yes,No,40,male,2,1,Positive,-0.483975401,0.971698463,-0.576776779,Medium,Psoriasis
+Psoriasis,Yes,No,No,No,40,male,2,1,Positive,-0.483975401,0.971698463,-0.576776779,Medium,Psoriasis
+Psoriasis,No,Yes,No,No,40,female,1,2,Positive,-0.483975401,-0.723915355,0.948186068,Medium,Psoriasis
+Tuberculosis,Yes,Yes,Yes,Yes,40,male,2,2,Positive,-0.483975401,0.971698463,0.948186068,Medium,Tuberculosis
+Anxiety Disorders,No,No,No,No,42,male,0,1,Negative,-0.330910231,-2.419529174,-0.576776779,Medium,Anxiety Disorders
+Common Cold,Yes,Yes,No,No,42,female,2,2,Negative,-0.330910231,0.971698463,0.948186068,Low,Common Cold
+Depression,Yes,No,No,Yes,42,male,2,1,Negative,-0.330910231,0.971698463,-0.576776779,Medium,Depression
+Influenza,No,Yes,No,No,42,female,1,2,Negative,-0.330910231,-0.723915355,0.948186068,Low,Influenza
+Kidney Cancer,Yes,No,No,No,42,female,1,1,Negative,-0.330910231,-0.723915355,-0.576776779,High,Kidney Cancer
+Liver Cancer,Yes,No,Yes,Yes,42,male,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,High,Liver Cancer
+Liver Disease,Yes,No,No,Yes,42,female,1,1,Negative,-0.330910231,-0.723915355,-0.576776779,High,Liver Disease
+Lung Cancer,Yes,No,Yes,Yes,42,male,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,High,Lung Cancer
+Migraine,Yes,Yes,Yes,No,42,male,2,2,Negative,-0.330910231,0.971698463,0.948186068,Medium,Migraine
+Osteoarthritis,No,No,Yes,No,42,male,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,Medium,Osteoarthritis
+Stroke,Yes,No,Yes,No,42,male,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,High,Stroke
+Urinary Tract Infection,No,Yes,Yes,Yes,42,female,1,0,Negative,-0.330910231,-0.723915355,-2.101739626,Low,Urinary Tract Infection
+Diabetes,Yes,Yes,Yes,No,42,male,2,1,Positive,-0.330910231,0.971698463,-0.576776779,Medium,Diabetes
+Hypothyroidism,Yes,Yes,Yes,No,42,female,2,2,Positive,-0.330910231,0.971698463,0.948186068,Medium,Hypothyroidism
+Kidney Disease,Yes,No,Yes,No,42,female,2,0,Positive,-0.330910231,0.971698463,-2.101739626,High,Kidney Disease
+Pneumonia,No,Yes,Yes,Yes,43,female,2,1,Positive,-0.254377646,0.971698463,-0.576776779,Low,Pneumonia
+Allergic Rhinitis,No,Yes,Yes,No,45,male,2,1,Negative,-0.101312476,0.971698463,-0.576776779,Low,Allergic Rhinitis
+Autism Spectrum Disorder (ASD),No,No,Yes,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,Medium,Autism Spectrum Disorder (ASD)
+Crohn's Disease,Yes,No,Yes,No,45,male,2,1,Negative,-0.101312476,0.971698463,-0.576776779,Medium,Crohn's Disease
+Hepatitis,Yes,No,Yes,No,45,female,2,2,Negative,-0.101312476,0.971698463,0.948186068,Medium,Hepatitis
+Hyperglycemia,No,No,Yes,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,Medium,Hyperglycemia
+Kidney Cancer,No,Yes,Yes,Yes,45,male,1,0,Negative,-0.101312476,-0.723915355,-2.101739626,High,Kidney Cancer
+Kidney Disease,Yes,Yes,No,No,45,male,1,2,Negative,-0.101312476,-0.723915355,0.948186068,High,Kidney Disease
+Melanoma,Yes,No,Yes,No,45,male,2,1,Negative,-0.101312476,0.971698463,-0.576776779,High,Melanoma
+Migraine,No,No,No,No,45,female,0,1,Negative,-0.101312476,-2.419529174,-0.576776779,Medium,Migraine
+Ovarian Cancer,No,No,Yes,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,High,Ovarian Cancer
+Pancreatitis,No,Yes,Yes,Yes,45,male,1,0,Negative,-0.101312476,-0.723915355,-2.101739626,High,Pancreatitis
+Rheumatoid Arthritis,Yes,No,No,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,Medium,Rheumatoid Arthritis
+Stroke,No,No,Yes,No,45,male,1,1,Negative,-0.101312476,-0.723915355,-0.576776779,High,Stroke
+Turner Syndrome,No,No,Yes,No,45,male,2,2,Negative,-0.101312476,0.971698463,0.948186068,Medium,Turner Syndrome
+Urinary Tract Infection,No,No,No,No,45,female,0,1,Negative,-0.101312476,-2.419529174,-0.576776779,Low,Urinary Tract Infection
+Zika Virus,No,Yes,Yes,No,45,female,2,2,Negative,-0.101312476,0.971698463,0.948186068,Low,Zika Virus
+Allergic Rhinitis,Yes,Yes,Yes,No,45,male,2,1,Positive,-0.101312476,0.971698463,-0.576776779,Low,Allergic Rhinitis
+Anxiety Disorders,Yes,Yes,Yes,No,45,male,2,1,Positive,-0.101312476,0.971698463,-0.576776779,Medium,Anxiety Disorders
+Asthma,Yes,Yes,No,Yes,45,male,1,1,Positive,-0.101312476,-0.723915355,-0.576776779,Medium,Asthma
+Cataracts,No,No,Yes,No,45,female,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,Cataracts
+Crohn's Disease,No,No,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,Crohn's Disease
+Crohn's Disease,Yes,Yes,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,Crohn's Disease
+Depression,No,No,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,Depression
+Diabetes,Yes,No,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,Diabetes
+Diabetes,No,Yes,Yes,No,45,male,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,Diabetes
+Hypertension,Yes,No,Yes,No,45,male,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,Hypertension
+Hypothyroidism,No,No,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,Hypothyroidism
+Liver Disease,Yes,Yes,Yes,No,45,female,1,2,Positive,-0.101312476,-0.723915355,0.948186068,High,Liver Disease
+Multiple Sclerosis,Yes,No,No,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,Multiple Sclerosis
+Osteoarthritis,Yes,No,Yes,Yes,45,male,2,1,Positive,-0.101312476,0.971698463,-0.576776779,Medium,Osteoarthritis
+Osteoporosis,Yes,Yes,Yes,No,45,female,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,Osteoporosis
+Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,High,Pneumocystis Pneumonia (PCP)
+Pneumonia,Yes,Yes,Yes,Yes,45,male,2,2,Positive,-0.101312476,0.971698463,0.948186068,Low,Pneumonia
+Scoliosis,No,No,No,No,45,female,2,2,Positive,-0.101312476,0.971698463,0.948186068,Medium,Scoliosis
+Sickle Cell Anemia,No,No,Yes,No,45,female,1,1,Positive,-0.101312476,-0.723915355,-0.576776779,High,Sickle Cell Anemia
+Tetanus,No,No,Yes,No,45,male,1,2,Positive,-0.101312476,-0.723915355,0.948186068,Medium,Tetanus
+Hypertension,No,No,No,No,48,female,0,2,Negative,0.128285279,-2.419529174,0.948186068,Medium,Hypertension
+Hypothyroidism,No,No,Yes,No,48,male,1,2,Negative,0.128285279,-0.723915355,0.948186068,Medium,Hypothyroidism
+Allergic Rhinitis,Yes,No,No,No,50,male,2,2,Negative,0.281350448,0.971698463,0.948186068,Low,Allergic Rhinitis
+Anemia,No,No,Yes,No,50,male,1,1,Negative,0.281350448,-0.723915355,-0.576776779,Medium,Anemia
+Anxiety Disorders,No,No,Yes,No,50,male,1,1,Negative,0.281350448,-0.723915355,-0.576776779,Medium,Anxiety Disorders
+Cholera,Yes,No,Yes,Yes,50,female,2,2,Negative,0.281350448,0.971698463,0.948186068,Low,Cholera
+Crohn's Disease,Yes,Yes,Yes,No,50,male,1,2,Negative,0.281350448,-0.723915355,0.948186068,Medium,Crohn's Disease
+Crohn's Disease,No,No,Yes,No,50,male,1,2,Negative,0.281350448,-0.723915355,0.948186068,Medium,Crohn's Disease
+Depression,No,Yes,Yes,No,50,female,0,0,Negative,0.281350448,-2.419529174,-2.101739626,Medium,Depression
+Diabetes,No,Yes,No,No,50,male,1,2,Negative,0.281350448,-0.723915355,0.948186068,Medium,Diabetes
+Endometriosis,Yes,No,No,No,50,male,2,1,Negative,0.281350448,0.971698463,-0.576776779,Medium,Endometriosis
+Hypertension,No,Yes,No,No,50,female,1,0,Negative,0.281350448,-0.723915355,-2.101739626,Medium,Hypertension
+Hypothyroidism,Yes,Yes,Yes,No,50,male,1,2,Negative,0.281350448,-0.723915355,0.948186068,Medium,Hypothyroidism
+Kidney Cancer,No,Yes,No,No,50,male,0,2,Negative,0.281350448,-2.419529174,0.948186068,High,Kidney Cancer
+Kidney Disease,No,Yes,No,Yes,50,male,1,1,Negative,0.281350448,-0.723915355,-0.576776779,High,Kidney Disease
+Pancreatitis,No,Yes,No,No,50,male,0,2,Negative,0.281350448,-2.419529174,0.948186068,High,Pancreatitis
+Rheumatoid Arthritis,No,Yes,No,No,50,female,0,1,Negative,0.281350448,-2.419529174,-0.576776779,Medium,Rheumatoid Arthritis
+Sepsis,Yes,Yes,Yes,No,50,male,1,1,Negative,0.281350448,-0.723915355,-0.576776779,High,Sepsis
+Sleep Apnea,Yes,No,Yes,Yes,50,male,2,2,Negative,0.281350448,0.971698463,0.948186068,Medium,Sleep Apnea
+Urinary Tract Infection,Yes,Yes,No,Yes,50,male,2,1,Negative,0.281350448,0.971698463,-0.576776779,Low,Urinary Tract Infection
+Asthma,Yes,Yes,Yes,Yes,50,female,1,2,Positive,0.281350448,-0.723915355,0.948186068,Medium,Asthma
+Bronchitis,Yes,Yes,Yes,Yes,50,male,2,2,Positive,0.281350448,0.971698463,0.948186068,Low,Bronchitis
+Down Syndrome,No,No,Yes,No,50,female,2,2,Positive,0.281350448,0.971698463,0.948186068,Medium,Down Syndrome
+Ebola Virus,Yes,Yes,Yes,Yes,50,male,1,1,Positive,0.281350448,-0.723915355,-0.576776779,High,Ebola Virus
+Eczema,No,Yes,No,No,50,female,2,2,Positive,0.281350448,0.971698463,0.948186068,Medium,Eczema
+Gastroenteritis,Yes,Yes,Yes,Yes,50,female,2,1,Positive,0.281350448,0.971698463,-0.576776779,Medium,Gastroenteritis
+Klinefelter Syndrome,No,No,Yes,No,50,female,1,1,Positive,0.281350448,-0.723915355,-0.576776779,Medium,Klinefelter Syndrome
+Liver Cancer,No,Yes,Yes,Yes,50,male,2,2,Positive,0.281350448,0.971698463,0.948186068,High,Liver Cancer
+Lyme Disease,Yes,No,No,No,50,male,1,2,Positive,0.281350448,-0.723915355,0.948186068,Medium,Lyme Disease
+Pancreatic Cancer,No,No,Yes,No,50,female,2,2,Positive,0.281350448,0.971698463,0.948186068,High,Pancreatic Cancer
+Pneumothorax,No,No,Yes,Yes,50,female,2,2,Positive,0.281350448,0.971698463,0.948186068,Medium,Pneumothorax
+Stroke,No,Yes,Yes,Yes,50,male,2,2,Positive,0.281350448,0.971698463,0.948186068,High,Stroke
+Ulcerative Colitis,No,Yes,Yes,No,50,female,1,2,Positive,0.281350448,-0.723915355,0.948186068,Medium,Ulcerative Colitis
+Hypertension,Yes,Yes,No,No,52,male,1,0,Negative,0.434415618,-0.723915355,-2.101739626,Medium,Hypertension
+Multiple Sclerosis,No,Yes,Yes,No,52,male,1,1,Negative,0.434415618,-0.723915355,-0.576776779,Medium,Multiple Sclerosis
+Appendicitis,Yes,No,Yes,No,55,male,1,1,Negative,0.664013373,-0.723915355,-0.576776779,Low,Appendicitis
+Bronchitis,No,No,Yes,Yes,55,male,2,2,Negative,0.664013373,0.971698463,0.948186068,Low,Bronchitis
+Bronchitis,Yes,Yes,Yes,Yes,55,male,2,1,Negative,0.664013373,0.971698463,-0.576776779,Low,Bronchitis
+Common Cold,Yes,No,Yes,Yes,55,male,1,0,Negative,0.664013373,-0.723915355,-2.101739626,Low,Common Cold
+Diabetes,No,Yes,No,No,55,female,1,2,Negative,0.664013373,-0.723915355,0.948186068,Medium,Diabetes
+Esophageal Cancer,No,No,Yes,No,55,male,1,1,Negative,0.664013373,-0.723915355,-0.576776779,Medium,Esophageal Cancer
+HIV/AIDS,Yes,No,No,No,55,female,2,2,Negative,0.664013373,0.971698463,0.948186068,High,HIV/AIDS
+Hypertension,No,Yes,No,No,55,female,1,0,Negative,0.664013373,-0.723915355,-2.101739626,Medium,Hypertension
+Liver Disease,No,Yes,Yes,No,55,male,2,0,Negative,0.664013373,0.971698463,-2.101739626,High,Liver Disease
+Marfan Syndrome,No,No,Yes,No,55,male,2,2,Negative,0.664013373,0.971698463,0.948186068,Medium,Marfan Syndrome
+Migraine,No,Yes,Yes,Yes,55,female,1,0,Negative,0.664013373,-0.723915355,-2.101739626,Medium,Migraine
+Osteoporosis,No,No,Yes,No,55,male,2,1,Negative,0.664013373,0.971698463,-0.576776779,Medium,Osteoporosis
+Parkinson's Disease,No,No,Yes,No,55,female,1,0,Negative,0.664013373,-0.723915355,-2.101739626,High,Parkinson's Disease
+Anxiety Disorders,Yes,Yes,No,No,55,female,1,0,Positive,0.664013373,-0.723915355,-2.101739626,Medium,Anxiety Disorders
+Coronary Artery Disease,No,No,Yes,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,High,Coronary Artery Disease
+Hemorrhoids,No,No,No,No,55,female,2,2,Positive,0.664013373,0.971698463,0.948186068,Medium,Hemorrhoids
+Hypertension,Yes,No,Yes,No,55,male,2,1,Positive,0.664013373,0.971698463,-0.576776779,Medium,Hypertension
+Hypothyroidism,No,No,Yes,No,55,female,2,2,Positive,0.664013373,0.971698463,0.948186068,Medium,Hypothyroidism
+Osteoarthritis,Yes,Yes,No,No,55,female,2,2,Positive,0.664013373,0.971698463,0.948186068,Medium,Osteoarthritis
+Osteoporosis,Yes,No,Yes,Yes,55,male,2,0,Positive,0.664013373,0.971698463,-2.101739626,Medium,Osteoporosis
+Osteoporosis,No,Yes,Yes,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,Medium,Osteoporosis
+Osteoporosis,Yes,No,Yes,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,Medium,Osteoporosis
+Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,female,1,1,Positive,0.664013373,-0.723915355,-0.576776779,Medium,Polycystic Ovary Syndrome (PCOS)
+Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,female,2,2,Positive,0.664013373,0.971698463,0.948186068,Medium,Systemic Lupus Erythematosus
+Typhoid Fever,No,Yes,No,No,55,male,1,0,Positive,0.664013373,-0.723915355,-2.101739626,Medium,Typhoid Fever
+Influenza,Yes,Yes,Yes,Yes,56,male,2,2,Positive,0.740545958,0.971698463,0.948186068,Low,Influenza
+Pneumonia,Yes,Yes,No,Yes,57,male,1,2,Negative,0.817078543,-0.723915355,0.948186068,Low,Pneumonia
+Breast Cancer,No,No,Yes,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,High,Breast Cancer
+Coronary Artery Disease,Yes,Yes,No,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,High,Coronary Artery Disease
+Hyperthyroidism,No,No,Yes,No,60,male,1,1,Negative,1.046676298,-0.723915355,-0.576776779,Medium,Hyperthyroidism
+Measles,Yes,Yes,No,No,60,female,2,1,Negative,1.046676298,0.971698463,-0.576776779,Low,Measles
+Osteoarthritis,No,Yes,No,Yes,60,female,1,1,Negative,1.046676298,-0.723915355,-0.576776779,Medium,Osteoarthritis
+Osteomyelitis,No,No,Yes,No,60,male,1,1,Negative,1.046676298,-0.723915355,-0.576776779,Medium,Osteomyelitis
+Osteoporosis,Yes,No,No,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,Medium,Osteoporosis
+Osteoporosis,No,Yes,No,No,60,male,2,2,Negative,1.046676298,0.971698463,0.948186068,Medium,Osteoporosis
+Polio,Yes,Yes,Yes,No,60,male,1,1,Negative,1.046676298,-0.723915355,-0.576776779,Medium,Polio
+Asthma,Yes,Yes,Yes,Yes,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,Medium,Asthma
+Chronic Kidney Disease,No,No,Yes,No,60,female,1,2,Positive,1.046676298,-0.723915355,0.948186068,High,Chronic Kidney Disease
+Hemophilia,No,No,Yes,No,60,female,1,1,Positive,1.046676298,-0.723915355,-0.576776779,High,Hemophilia
+Hepatitis B,No,Yes,Yes,No,60,male,1,0,Positive,1.046676298,-0.723915355,-2.101739626,Medium,Hepatitis B
+Hypertension,No,No,Yes,No,60,female,2,1,Positive,1.046676298,0.971698463,-0.576776779,Medium,Hypertension
+Hypertension,Yes,No,Yes,No,60,male,2,1,Positive,1.046676298,0.971698463,-0.576776779,Medium,Hypertension
+Hypertension,No,No,No,No,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,Medium,Hypertension
+Kidney Cancer,Yes,Yes,Yes,No,60,female,2,1,Positive,1.046676298,0.971698463,-0.576776779,High,Kidney Cancer
+Kidney Disease,Yes,Yes,Yes,Yes,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,High,Kidney Disease
+Osteoporosis,Yes,No,Yes,No,60,male,2,1,Positive,1.046676298,0.971698463,-0.576776779,Medium,Osteoporosis
+Pancreatitis,Yes,Yes,Yes,No,60,female,2,1,Positive,1.046676298,0.971698463,-0.576776779,High,Pancreatitis
+Parkinson's Disease,Yes,Yes,No,No,60,male,2,1,Positive,1.046676298,0.971698463,-0.576776779,High,Parkinson's Disease
+Prader-Willi Syndrome,No,No,Yes,No,60,female,1,1,Positive,1.046676298,-0.723915355,-0.576776779,Medium,Prader-Willi Syndrome
+Rheumatoid Arthritis,No,No,Yes,No,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,Medium,Rheumatoid Arthritis
+Thyroid Cancer,No,No,Yes,No,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,High,Thyroid Cancer
+Tuberculosis,Yes,Yes,Yes,No,60,female,2,2,Positive,1.046676298,0.971698463,0.948186068,Medium,Tuberculosis
+Bladder Cancer,No,No,Yes,No,65,male,1,1,Negative,1.429339223,-0.723915355,-0.576776779,High,Bladder Cancer
+Diabetes,No,No,Yes,No,65,male,1,2,Negative,1.429339223,-0.723915355,0.948186068,Medium,Diabetes
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,male,1,1,Negative,1.429339223,-0.723915355,-0.576776779,Low,Otitis Media (Ear Infection)
+Stroke,Yes,No,Yes,No,65,female,2,0,Negative,1.429339223,0.971698463,-2.101739626,High,Stroke
+Tourette Syndrome,No,No,Yes,No,65,male,2,2,Negative,1.429339223,0.971698463,0.948186068,Medium,Tourette Syndrome
+Urinary Tract Infection (UTI),Yes,No,Yes,No,65,male,2,1,Negative,1.429339223,0.971698463,-0.576776779,Medium,Urinary Tract Infection
+Alzheimer's Disease,No,Yes,No,No,65,male,1,2,Positive,1.429339223,-0.723915355,0.948186068,High,Alzheimer's Disease
+Alzheimer's Disease,No,No,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,Alzheimer's Disease
+Bronchitis,Yes,No,Yes,Yes,65,male,2,2,Positive,1.429339223,0.971698463,0.948186068,Low,Bronchitis
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,Chronic Obstructive Pulmonary Disease (COPD)
+Dementia,No,No,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,Dementia
+Diabetes,Yes,Yes,Yes,No,65,female,1,2,Positive,1.429339223,-0.723915355,0.948186068,Medium,Diabetes
+Diverticulitis,No,No,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,Medium,Diverticulitis
+Liver Cancer,Yes,Yes,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,Liver Cancer
+Lung Cancer,Yes,Yes,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,Lung Cancer
+Lung Cancer,Yes,No,Yes,No,65,female,1,2,Positive,1.429339223,-0.723915355,0.948186068,High,Lung Cancer
+Mumps,No,No,Yes,No,65,male,1,2,Positive,1.429339223,-0.723915355,0.948186068,Low,Mumps
+Osteoporosis,No,Yes,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,Medium,Osteoporosis
+Stroke,Yes,Yes,Yes,No,65,female,2,2,Positive,1.429339223,0.971698463,0.948186068,High,Stroke
+Alzheimer's Disease,Yes,No,Yes,No,70,female,2,1,Negative,1.812002148,0.971698463,-0.576776779,High,Alzheimer's Disease
+Cholecystitis,No,No,Yes,No,70,male,1,1,Negative,1.812002148,-0.723915355,-0.576776779,Medium,Cholecystitis
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,male,1,2,Negative,1.812002148,-0.723915355,0.948186068,High,Chronic Obstructive Pulmonary Disease (COPD)
+Osteoporosis,Yes,No,No,No,70,male,1,1,Negative,1.812002148,-0.723915355,-0.576776779,Medium,Osteoporosis
+Parkinson's Disease,No,No,Yes,No,70,male,1,1,Negative,1.812002148,-0.723915355,-0.576776779,High,Parkinson's Disease
+Prostate Cancer,Yes,Yes,No,No,70,male,2,1,Negative,1.812002148,0.971698463,-0.576776779,High,Prostate Cancer
+Schizophrenia,No,Yes,Yes,No,70,male,1,1,Negative,1.812002148,-0.723915355,-0.576776779,Medium,Schizophrenia
+Gout,Yes,No,Yes,No,70,female,1,2,Positive,1.812002148,-0.723915355,0.948186068,Medium,Gout
+Migraine,No,No,Yes,No,70,female,1,1,Positive,1.812002148,-0.723915355,-0.576776779,Medium,Migraine
+Stroke,No,Yes,No,No,70,male,1,2,Positive,1.812002148,-0.723915355,0.948186068,High,Stroke
+Testicular Cancer,No,No,Yes,No,70,female,2,2,Positive,1.812002148,0.971698463,0.948186068,Medium,Testicular Cancer
+Tonsillitis,Yes,Yes,Yes,No,70,female,2,2,Positive,1.812002148,0.971698463,0.948186068,Low,Tonsillitis
+Williams Syndrome,No,No,Yes,No,70,female,1,1,Positive,1.812002148,-0.723915355,-0.576776779,Medium,Williams Syndrome
+Stroke,Yes,No,Yes,No,80,female,2,2,Positive,2.577327997,0.971698463,0.948186068,High,Stroke
+Stroke,Yes,No,Yes,No,85,male,2,2,Positive,2.959990922,0.971698463,0.948186068,High,Stroke
+Stroke,Yes,No,Yes,No,90,female,2,2,Positive,3.342653847,0.971698463,0.948186068,High,Stroke
